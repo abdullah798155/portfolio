@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdullah</h1>
 <h3 align="center">An aspiring software engineer</h3>
 
-- 🔭 I’m currently working on [Rice seed detection using deep learning using Augmented reality (AR))](To be finalised..)
+- 🔭 I’m currently working on [Rice seed detection using deep learning and Augmented reality (AR))](To be finalised..)
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullah798155?tab=repositories](https://github.com/abdullah798155?tab=repositories)
 
